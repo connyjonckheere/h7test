@@ -19,7 +19,7 @@ namespace h7test
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Eerste bericht");
+            MessageBox.Show("Eerste bericht in VS");
             MessageBox.Show("Tweede bericht");
             MessageBox.Show("derde bericht vanuit github");
         }
