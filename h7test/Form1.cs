@@ -21,6 +21,7 @@ namespace h7test
         {
             MessageBox.Show("Eerste bericht");
             MessageBox.Show("Tweede bericht");
+            MessageBox.Show("derde bericht vanuit github");
         }
     }
 }
