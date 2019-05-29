@@ -23,6 +23,7 @@ namespace h7test
             MessageBox.Show("Tweede bericht");
             MessageBox.Show("derde bericht vanuit github");
             MessageBox.Show("wijziging 29 mei");
+            //wijziging in github om dan een pull te kunnen doen in Visual Studio
         }
     }
 }
