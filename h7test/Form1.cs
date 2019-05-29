@@ -22,6 +22,7 @@ namespace h7test
             MessageBox.Show("Eerste bericht in VS");
             MessageBox.Show("Tweede bericht");
             MessageBox.Show("derde bericht vanuit github");
+            MessageBox.Show("wijziging 29 mei");
         }
     }
 }
